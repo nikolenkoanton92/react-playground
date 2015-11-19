@@ -1,0 +1,28 @@
+{
+  "name": "0-facebook-form",
+  "version": "0.0.1",
+  "description": "Playground with facebook tutorial https://facebook.github.io/react/docs/tutorial.html",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nikolenkoanton92/react-playground.git"
+  },
+  "keywords": [
+    "react",
+    "facebook"
+  ],
+  "author": "Anton Nikoleno <nikolenkoanton92@gmail.com> (http://antonnikolenko.com/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nikolenkoanton92/react-playground/issues"
+  },
+  "homepage": "https://github.com/nikolenkoanton92/react-playground#readme",
+  "dependencies": {
+    "body-parser": "^1.14.1",
+    "express": "^4.13.3"
+  }
+}
